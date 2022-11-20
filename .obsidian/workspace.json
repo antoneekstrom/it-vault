@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "5b1493354a9f3ff4",
+    "type": "split",
+    "children": [
+      {
+        "id": "285ee67605cf42cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32196b0c203ef5d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Boka sal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f0fe03e8e17569f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a23793ec471efb33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "383f1d1a9718b8c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37bdd29736651eef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee911236286babdf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e5934662675169b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "02273fd4e37303a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1dab763d8049265",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "639e6735bbb6ce47",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "639e6735bbb6ce47",
+  "lastOpenFiles": [
+    "Sektionsmöten.md",
+    "Boka sal.md",
+    "styrIT.md",
+    "Vice ordförande.md",
+    "SAMO.md",
+    "Sociala utskott.md",
+    "Motionär.md"
+  ]
+}
